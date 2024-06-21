@@ -1,1 +1,1 @@
-worker: sh target/bin/tanishuv_bot
+worker sh target/bin/tanishuv_bot

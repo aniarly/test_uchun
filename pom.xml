@@ -156,8 +156,8 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>com.home.server.TelegramBot</mainClass>
-                            <name>workerBot</name>
+                            <mainClass>DatingBot</mainClass>
+                            <name>tanishuv_bot</name>
                         </program>
                     </programs>
                 </configuration>
